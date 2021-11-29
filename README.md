@@ -18,7 +18,7 @@
 
 <a href="https://mariias3.github.io/"><img align="left" src="https://icon-library.com/images/joystick-icon/joystick-icon-12.jpg" width="50px"/></a>
 
-
+<img src="https://mariias3.github.io/" />
    
 </div>
 
