@@ -16,11 +16,15 @@
 <!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariiaS3&theme=nightowl&hide_border=true&isFork=true" />
 <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MariiaS3&repo=MariiaS3&theme=nightowl&hide_border=true&show_icons=false" alt="github-readme-streak-stats">-->
 <p>
-<h1>TIC TAC TOE</h1>
+    <div id="main">
+        <h1>TIC TAC TOE</h1>
+         <!-- Game Instructions -->
+        <p id="ins">
             Game starts by just Tap on box<br><br>First Player starts as 
             <b>Player X</b><br>And<br>Second Player as <b>Player 0</b>
+        </p>
+        <br><br>
 </p>
-
 <div style="display: none">
     <![CDATA[<script src="https://github.com/MariiaS3/MariiaS3/blob/main/tic.js">
     <!--<![CDATA[--><![CDATA[
