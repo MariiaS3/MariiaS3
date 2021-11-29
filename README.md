@@ -15,7 +15,8 @@
 <!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariiaS3&theme=nightowl&hide_border=true&isFork=true" />
 <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MariiaS3&repo=MariiaS3&theme=nightowl&hide_border=true&show_icons=false" alt="github-readme-streak-stats">-->
 
-jsdoc --readme path/to/readme/README path/to/js
+jsdoc --readme path/to/readme/README https://github.com/MariiaS3/MariiaS3/blob/main/tic.js
+
 
 
 
