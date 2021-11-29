@@ -6,6 +6,8 @@
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+
 </p>
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=MariiaS3&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My gitchub stats" />
