@@ -30,7 +30,6 @@
     </script>
     <![CDATA[<script>
     <!--<![CDATA[--><![CDATA[
-                    <br><br>
                     <input type="text" id="b1" onclick="myfunc_3(); myfunc();" readonly>
                     <input type="text" id="b2" onclick="myfunc_4(); myfunc();" readonly>
                     <input type="text" id="b3" onclick="myfunc_5(); myfunc();" readonly>
