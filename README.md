@@ -42,7 +42,6 @@
                     <input type="text" id="b7" onclick="myfunc_9(); myfunc();" readonly>
                     <input type="text" id="b8" onclick="myfunc_10(); myfunc();" readonly>
                     <input type="text" id="b9" onclick="myfunc_11(); myfunc();" readonly>
-                    <br><br><br>
     // <![CDATA[
     </script><![CDATA[]]>
 </div>
