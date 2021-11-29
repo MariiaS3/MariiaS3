@@ -14,7 +14,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=timcreative&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=true" alt="My github stats" />
 <!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariiaS3&theme=nightowl&hide_border=true&isFork=true" />
 <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MariiaS3&repo=MariiaS3&theme=nightowl&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
--->
+
 
 <a name="top"></a>
 I challenge you to a game of Tic-Tac-Toe. 
@@ -2273,3 +2273,4 @@ _If for some reason the buttons are not clickable, try reloading the page. Somet
 
 <a name="bottom"></a>
 [Take me to the top](#top)
+-->
