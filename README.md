@@ -17,20 +17,21 @@
 
 
 <script src="https://github.com/MariiaS3/MariiaS3/blob/main/tic.js"></script>
-  <div id="main">
+  
+<div id="main">
         <h1>TIC TAC TOE</h1>
          <!-- Game Instructions -->
-        <p id="ins">
+          <p id="ins">
             Game starts by just Tap on box<br><br>First Player starts as 
             <b>Player X</b><br>And<br>Second Player as <b>Player 0</b>
-        </p>
-        <br><br>
-       <!-- 3*3 grid of Boxes -->
+          </p>
+            <br><br>
+             <!-- 3*3 grid of Boxes -->
 
                     <input type="text" id="b1" onclick="myfunc_3(); myfunc();" readonly>
                     <input type="text" id="b2" onclick="myfunc_4(); myfunc();" readonly>
                     <input type="text" id="b3" onclick="myfunc_5(); myfunc();" readonly>
-        <br><br>
+            <br><br>
                     <input type="text" id="b4" onclick="myfunc_6(); myfunc();" readonly>
                     <input type="text" id="b5" onclick="myfunc_7(); myfunc();" readonly>
                     <input type="text" id="b6" onclick="myfunc_8(); myfunc();" readonly>
@@ -47,7 +48,7 @@
         <br><br>
         <!-- Space to show player turn -->
         <p id="print"></p>
-    </div>
+</div>
 
 
   
