@@ -22,7 +22,13 @@
     </script>
     <![CDATA[<script>
     <!--<![CDATA[--><![CDATA[
-         myfunc();
+        <h1>TIC TAC TOE</h1>
+         <!-- Game Instructions -->
+        <p id="ins">
+            Game starts by just Tap on box<br><br>First Player starts as 
+            <b>Player X</b><br>And<br>Second Player as <b>Player 0</b>
+        </p>
+        <br><br>
     // <![CDATA[
     </script><![CDATA[]]>
 </div>
