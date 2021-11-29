@@ -22,7 +22,7 @@
     </script>
     <![CDATA[<script>
     <!--<![CDATA[--><![CDATA[
-        example();
+         myfunc();
     // <![CDATA[
     </script><![CDATA[]]>
 </div>
