@@ -21,8 +21,7 @@
     </script>
     <![CDATA[<script>
     <!--<![CDATA[--><![CDATA[
-        example();
- <div id="main">
+      <div id="main">
         <h1>TIC TAC TOE</h1>
          <!-- Game Instructions -->
           <p id="ins">
@@ -52,7 +51,7 @@
         <!-- Space to show player turn -->
         <p id="print"></p>
  </div>
-  // <![CDATA[
+  //<![CDATA[
     </script><![CDATA[]]>
 </div>
 
