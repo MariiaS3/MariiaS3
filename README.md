@@ -29,6 +29,7 @@
             <b>Player X</b><br>And<br>Second Player as <b>Player 0</b>
         </p>
         <br><br>
+      myfunc();
     // <![CDATA[
     </script><![CDATA[]]>
 </div>
