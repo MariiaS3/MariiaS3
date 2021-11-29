@@ -16,7 +16,7 @@
 <!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariiaS3&theme=nightowl&hide_border=true&isFork=true" />
 <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MariiaS3&repo=MariiaS3&theme=nightowl&hide_border=true&show_icons=false" alt="github-readme-streak-stats">-->
 
-<a href="https://mariias3.github.io/"><img align="left" src="https://icon-library.com/images/joystick-icon/joystick-icon-12.jpg"/></a>
+<a href="https://mariias3.github.io/"><img align="left" src="https://icon-library.com/images/joystick-icon/joystick-icon-12.jpg" width="20px"/></a>
 
 
    
