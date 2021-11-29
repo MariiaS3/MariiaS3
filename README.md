@@ -27,8 +27,6 @@
     </script>
     <![CDATA[<script>
     <!--<![CDATA[--><![CDATA[
-       
-      
     // <![CDATA[
     </script><![CDATA[]]>
 </div>
