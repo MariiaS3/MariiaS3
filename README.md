@@ -13,9 +13,63 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=MariiaS3&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My gitchub stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=timcreative&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=true" alt="My github stats" />
 <!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariiaS3&theme=nightowl&hide_border=true&isFork=true" />
-<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MariiaS3&repo=MariiaS3&theme=nightowl&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MariiaS3&repo=MariiaS3&theme=nightowl&hide_border=true&show_icons=false" alt="github-readme-streak-stats">-->
+
+<head>
+  <meta name="viewport" content=
+        "width=device-width, initial-scale=1.0">
+  
+    <!-- CSS file Included -->
+   <!-- <link rel="stylesheet" type="text/css" href="tic.css">-->
+
+    <script src="tic.js"></script>
+</head>
+
+<body>
+
+    <div id="main">
+        <h1>TIC TAC TOE</h1>
+         <!-- Game Instructions -->
+        <p id="ins">
+            Game starts by just Tap on box<br><br>First Player starts as 
+            <b>Player X</b><br>And<br>Second Player as <b>Player 0</b>
+        </p>
+        <br><br>
+       <!-- 3*3 grid of Boxes -->
+
+                    <input type="text" id="b1" onclick="myfunc_3(); myfunc();" readonly>
+                    <input type="text" id="b2" onclick="myfunc_4(); myfunc();" readonly>
+                    <input type="text" id="b3" onclick="myfunc_5(); myfunc();" readonly>
+        <br><br>
+                    <input type="text" id="b4" onclick="myfunc_6(); myfunc();" readonly>
+                    <input type="text" id="b5" onclick="myfunc_7(); myfunc();" readonly>
+                    <input type="text" id="b6" onclick="myfunc_8(); myfunc();" readonly>
+            <br><br>
+                    <input type="text" id="b7" onclick="myfunc_9(); myfunc();" readonly>
+                    <input type="text" id="b8" onclick="myfunc_10(); myfunc();" readonly>
+                    <input type="text" id="b9" onclick="myfunc_11(); myfunc();" readonly>
+          <!-- Grid end here  -->
+          <br><br><br>
+          <!-- Button to reset game -->
+          <button id="but" onclick="myfunc_2()">
+           RESET
+          </button>
+        <br><br>
+        <!-- Space to show player turn -->
+        <p id="print"></p>
+    </div>
+ 
+</body>
 
 
+
+
+
+
+
+
+
+<!--
 <a name="top"></a>
 I challenge you to a game of Tic-Tac-Toe. 
 Give this page a few seconds to load all the emojis and then click the topmost box to start playing.
