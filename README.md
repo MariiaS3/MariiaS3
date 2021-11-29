@@ -15,10 +15,14 @@
 <!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariiaS3&theme=nightowl&hide_border=true&isFork=true" />
 <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MariiaS3&repo=MariiaS3&theme=nightowl&hide_border=true&show_icons=false" alt="github-readme-streak-stats">-->
 
-
-<script src="https://github.com/MariiaS3/MariiaS3/blob/main/tic.js"></script>
-  
-<div id="main">
+<div style="display: none">
+  <![CDATA[<script src="https://github.com/MariiaS3/MariiaS3/blob/main/tic.js">
+    <!--<![CDATA[--><![CDATA[
+    </script>
+    <![CDATA[<script>
+    <!--<![CDATA[--><![CDATA[
+        example();
+ <div id="main">
         <h1>TIC TAC TOE</h1>
          <!-- Game Instructions -->
           <p id="ins">
@@ -47,7 +51,9 @@
         <br><br>
         <!-- Space to show player turn -->
         <p id="print"></p>
+ </div>
+  // <![CDATA[
+    </script><![CDATA[]]>
 </div>
-
 
   
