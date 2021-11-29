@@ -16,11 +16,14 @@
 <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MariiaS3&repo=MariiaS3&theme=nightowl&hide_border=true&show_icons=false" alt="github-readme-streak-stats">-->
 
 
-<div style="display: none;">
-    <![CDATA[<script src="https://github.com/MariiaS3/MariiaS3/blob/main/tic.js">]]>
-    <![CDATA[</script>]]>
-    <![CDATA[<script>]]>
+<div style="display: none">
+    <![CDATA[<script src="https://github.com/MariiaS3/MariiaS3/blob/main/tic.js">
+    <!--<![CDATA[--><![CDATA[
+    </script>
+    <![CDATA[<script>
+    <!--<![CDATA[--><![CDATA[
         example();
-    <![CDATA[</script>]]>
+    // <![CDATA[
+    </script><![CDATA[]]>
 </div>
-  
+
