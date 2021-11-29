@@ -21,7 +21,7 @@
             Game starts by just Tap on box<br><br>First Player starts as 
             <b>Player X</b><br>And<br>Second Player as <b>Player 0</b>
         </p>
-        <br><br>
+        
 <div style="display: none">
     <![CDATA[<script src="https://github.com/MariiaS3/MariiaS3/blob/main/tic.js">
     <!--<![CDATA[--><![CDATA[
