@@ -48,16 +48,8 @@
  <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white&style=Flat" />
 
 </p>
-
-    </a>
+   </a>
         <a href="https://open.spotify.com/user/31hnpnzouza2difoq2bxicznimmq">
         <img src="https://spotify-github-profile.vercel.app/api/view?uid=zrei8evwinfjy9d27fjon68hh&cover_image=true&theme=novatorem" width="500px"/>
     </a>
 </p>
-
-![](https://komarev.com/ghpvc/?username=MariiaS3&style=flat-square)
-![status](https://dev.discordprofiles.me/badge/status/594853883742912512?style=flat-square)
-![playing](https://dev.discordprofiles.me/badge/playing/594853883742912512?style=flat-square)
-![vscode](https://dev.discordprofiles.me/badge/vscode/594853883742912512?style=flat-square)
-![intellij](https://dev.discordprofiles.me/badge/intellij/594853883742912512?style=flat-square)
-[![spotify](https://dev.discordprofiles.me/badge/spotify/594853883742912512?style=flat-square)](https://dev.discordprofiles.me/openspotify/594853883742912512?style=flat-square)
