@@ -18,6 +18,11 @@
 <img src="https://github-readme-stats.vercel.app/api/?username=timcreative&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=true" alt="My github stats" />
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariiaS3&theme=nightowl&hide_border=true&count-private=true" /> 
 <!-- <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MariiaS3&repo=MariiaS3&theme=nightowl&hide_border=true&show_icons=false" alt="github-readme-streak-stats">  -->
-
+<a href="https://www.instagram.com/marichka_sydor/">
+  <img
+    alt="Instagram"
+    src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=Flat"
+  />
+</a>
 </div>
 
