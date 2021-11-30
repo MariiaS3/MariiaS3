@@ -50,6 +50,7 @@
 </p>
    </a>
         <a href="https://open.spotify.com/user/31hnpnzouza2difoq2bxicznimmq">
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=zrei8evwinfjy9d27fjon68hh&cover_image=true&theme=novatorem" width="500px"/>
+        <img src="https://spotify-github-profile.vercel.app/api/view?uid=31hnpnzouza2difoq2bxicznimmq&cover_image=true&theme=novatorem" width="500px"/>
+ 
     </a>
 </p>
