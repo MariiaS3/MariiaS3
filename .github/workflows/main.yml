@@ -1,0 +1,18 @@
+# This is a basic workflow to help you get started with Actions
+name: Pull request labeler
+
+on: [ pull_request_target ]
+
+permissions:
+  contents: read
+  pull-requests: write
+
+jobs:
+  triage:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: MariiaS3/MariiaS3@main
+        with:
+          repo-token: ${{ secrets.TOKEN_README }}
+
+
