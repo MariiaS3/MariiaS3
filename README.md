@@ -13,58 +13,21 @@ distributed under the License is distributed on an "AS IS" BASIS,
 limitations under the License.
 -->
 
-<div align = "center">
-
-<p align="center">
-    <a href="https://www.xynox.codes/">
-        <img src="./assets/banner.svg" />
-    </a>
-</p>
-<p align="center">
-    <a href="https://www.xynox.codes/">
-        <img src="./assets/icons/header/website.svg" width="25px" />
-    </a>
-    &nbsp;
-    <a href="https://github.com/XynoxTheDev/">
-        <img src="./assets/icons/header/github.svg" width="25px" />
-    </a>
-    &nbsp;
-    <a href="https://twitter.com/Arindamz03/">
-        <img src="./assets/icons/header/twitter.svg" width="25px" />
-    </a>
-</p>
-
-
-
-## :bust_in_silhouette: About Me
-&nbsp;
-Heyo 👋 myself Arindam Hazra {Xynox} aka “Noobzie Coder Boi” from India. I am a student and software developer, passionate about making awesome things for tons of smiling faces. Enjoy building things, especially those which help or entertain others to bring happiness in others’ life and discover new kinds of stuff to learn. I spent my free time programming, singing, listening to songs, making code more efficient or user friendly, and sometimes playing video games! 😄
-
-## 🔖 My Statistics
-&nbsp;
-<p align="center">
-    <a href="https://github.com/MariiaS3">
-        <img src="https://github-readme-stats.vercel.app/api?username=MariiaS3&hide=issues,prs&count_private=true&show_owner=true&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=db1cff&hide_border=true/" />
-    </a>
-    <a href="https://github.com/MariiaS3">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariiaS3&layout=compact&count_private=true&langs_count=8&card_width=445&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=db1cff&hide_border=true/" />
-    </a>
-    <a href="https://github.com/MariiaS3">
+ <a href="https://github.com/MariiaS3">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=MariiaS3&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=db1cff&ring=db1cff&stroke=FFFFFFFF)](https://git.io/streak-stats" />
-    </a>
+<!--     </a>
         <a href="https://open.spotify.com/user/zrei8evwinfjy9d27fjon68hh?si=eed83da070104091">
         <img src="https://spotify-github-profile.vercel.app/api/view?uid=zrei8evwinfjy9d27fjon68hh&cover_image=true&theme=novatorem" width="500px"/>
     </a>
 </p>
-
+ -->
 <!-- ![](https://komarev.com/ghpvc/?username=XynoxTheDev&style=flat-square)
 ![status](https://dev.discordprofiles.me/badge/status/594853883742912512?style=flat-square)
 ![playing](https://dev.discordprofiles.me/badge/playing/594853883742912512?style=flat-square)
 ![vscode](https://dev.discordprofiles.me/badge/vscode/594853883742912512?style=flat-square)
 ![intellij](https://dev.discordprofiles.me/badge/intellij/594853883742912512?style=flat-square)
 [![spotify](https://dev.discordprofiles.me/badge/spotify/594853883742912512?style=flat-square)](https://dev.discordprofiles.me/openspotify/594853883742912512?style=flat-square) -->
-    
-</div>
+
 
 
 
@@ -92,7 +55,7 @@ Heyo 👋 myself Arindam Hazra {Xynox} aka “Noobzie Coder Boi” from India. I
 <img src="https://github-readme-stats.vercel.app/api/?username=timcreative&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=true" alt="My github stats" />
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariiaS3&theme=nightowl&hide_border=true&count-private=true" /> 
 <!-- <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MariiaS3&repo=MariiaS3&theme=nightowl&hide_border=true&show_icons=false" alt="github-readme-streak-stats">  -->
-<a href="https://gitlab.com/MariiaS3">
+<!-- <a href="https://gitlab.com/MariiaS3">
   <img
     alt="GitLab"
     src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white&style=Flat"
@@ -118,4 +81,4 @@ Heyo 👋 myself Arindam Hazra {Xynox} aka “Noobzie Coder Boi” from India. I
  <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white&style=Flat" />
 
 </p>
- -->
+ --> -->
