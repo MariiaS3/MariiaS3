@@ -1,24 +1,4 @@
-
-
- <a href="https://github.com/MariiaS3">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariiaS3&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=db1cff&ring=db1cff&stroke=FFFFFFFF)](https://git.io/streak-stats" />
-<!--     </a>
-        <a href="https://open.spotify.com/user/zrei8evwinfjy9d27fjon68hh?si=eed83da070104091">
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=zrei8evwinfjy9d27fjon68hh&cover_image=true&theme=novatorem" width="500px"/>
-    </a>
-</p>
- -->
-<!-- ![](https://komarev.com/ghpvc/?username=XynoxTheDev&style=flat-square)
-![status](https://dev.discordprofiles.me/badge/status/594853883742912512?style=flat-square)
-![playing](https://dev.discordprofiles.me/badge/playing/594853883742912512?style=flat-square)
-![vscode](https://dev.discordprofiles.me/badge/vscode/594853883742912512?style=flat-square)
-![intellij](https://dev.discordprofiles.me/badge/intellij/594853883742912512?style=flat-square)
-[![spotify](https://dev.discordprofiles.me/badge/spotify/594853883742912512?style=flat-square)](https://dev.discordprofiles.me/openspotify/594853883742912512?style=flat-square) -->
-
-
-
-
-<!-- <p>
+ <p>
   <a href="https://mariias3.github.io/"><img align="left" src="https://icon-library.com/images/joystick-icon/joystick-icon-12.jpg" width="50px"/></a>
   <br><br><br>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&style=Flat" />
@@ -42,7 +22,7 @@
 <img src="https://github-readme-stats.vercel.app/api/?username=timcreative&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=true" alt="My github stats" />
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariiaS3&theme=nightowl&hide_border=true&count-private=true" /> 
 <!-- <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MariiaS3&repo=MariiaS3&theme=nightowl&hide_border=true&show_icons=false" alt="github-readme-streak-stats">  -->
-<!-- <a href="https://gitlab.com/MariiaS3">
+ <a href="https://gitlab.com/MariiaS3">
   <img
     alt="GitLab"
     src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white&style=Flat"
@@ -68,4 +48,4 @@
  <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white&style=Flat" />
 
 </p>
- --> 
+
