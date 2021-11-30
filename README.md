@@ -1,17 +1,4 @@
-<!--Copyright 2019 Arindam Hazra aka Xynox <https://xynox.codes/>
 
-Licensed under the Apache License, Version 2.0(the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-limitations under the License.
--->
 
  <a href="https://github.com/MariiaS3">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariiaS3&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=db1cff&ring=db1cff&stroke=FFFFFFFF)](https://git.io/streak-stats" />
@@ -81,4 +68,4 @@ limitations under the License.
  <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white&style=Flat" />
 
 </p>
- --> -->
+ --> 
