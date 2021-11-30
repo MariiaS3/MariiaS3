@@ -10,7 +10,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses:  DenverCoder1/github-readme-streak-stats@main
+      - uses: DenverCoder1/github-readme-streak-stats@main
         with:
           # Your GitHub token
           token: ${{ secrets.TOKEN_MARIIAS3}}
