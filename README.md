@@ -17,7 +17,7 @@
  
 <p align="center">
           <a href="https://github.com/MariiaS3/MariiaS3">
-                  <img src="https://github.com/MariiaS3/MariiaS3/blob/main/profile-summary-card-output/dracula/0-profile-details.svg" alt="">
+                  <img src="https://github.com/MariiaS3/MariiaS3/blob/main/profile-summary-card-output/dracula/0-profile-details.svg" weight="150px" height="1500px" alt="">
           </a>
 
 </p>                                                                                               
