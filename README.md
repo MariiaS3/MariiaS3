@@ -15,13 +15,13 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white&style=Flat" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&style=Flat" />
  
-<p align="center">
+<p >
           <a href="https://github.com/MariiaS3/MariiaS3">
                   <img src="https://github.com/MariiaS3/MariiaS3/blob/main/profile-summary-card-output/dracula/0-profile-details.svg" weight="150px" height="223px" alt="">
           </a>
 
 </p>                                                                                               
-<p align="center">
+<p>
 <a href="https://github.com/MariiaS3/MariiaS3"><img src="https://github.com/MariiaS3/MariiaS3/blob/main/profile-summary-card-output/dracula/1-repos-per-language.svg" weight="150px" height="150px" alt=""></a>
 <a href="https://github.com/MariiaS3/MariiaS3"><img src="https://github.com/MariiaS3/MariiaS3/blob/main/profile-summary-card-output/dracula/2-most-commit-language.svg" weight="150px" height="150px" alt=""></a>
 <a href="https://github.com/MariiaS3/MariiaS3"><img src="https://github.com/MariiaS3/MariiaS3/blob/main/profile-summary-card-output/dracula/3-stats.svg" weight="150px" height="150px" alt=""></a>
