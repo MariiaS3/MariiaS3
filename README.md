@@ -15,9 +15,13 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white&style=Flat" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&style=Flat" />
  
+<p align="center>
+          <a href="https://github.com/MariiaS3/MariiaS3">
+                  <img src="https://github.com/MariiaS3/MariiaS3/blob/main/profile-summary-card-output/monokai/0-profile-details.svg" alt="">
+          </a>
+
 </p>
-
-
+ 
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=MariiaS3&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My gitchub stats" />
 <img src="https://github-readme-stats.vercel.app/api/?username=timcreative&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=true" alt="My github stats" />
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariiaS3&theme=nightowl&hide_border=true&isFork=true" /> 
