@@ -51,6 +51,7 @@
   />
 </a>
  </p>
+ <br>
 <p>
  <img  align="left" src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white&style=Flat" />
  <img align="left" src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white&style=Flat" />
