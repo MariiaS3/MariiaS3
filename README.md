@@ -28,7 +28,7 @@
 </p>                                                                                                                                                                                                                                                                              
 <p align="center">
 <a href="https://open.spotify.com/user/31hnpnzouza2difoq2bxicznimmq">
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=31hnpnzouza2difoq2bxicznimmq&cover_image=true&theme=novatorem" weight="1000px" />
+        <img src="https://spotify-github-profile.vercel.app/api/view?uid=31hnpnzouza2difoq2bxicznimmq&cover_image=true&theme=novatorem" weight="150px" height="223px" />
 </a>
 </p>
  <a href="https://gitlab.com/MariiaS3">
