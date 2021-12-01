@@ -22,9 +22,9 @@
 
 </p>                                                                                               
    <p>
-<a href="https://github.com/MariiaS3/MariiaS3"><img src="https://github.com/MariiaS3/MariiaS3/blob/main/profile-summary-card-output/dracula/3-stats.svg" alt=""></a>
+<a href="https://github.com/MariiaS3/MariiaS3"><img src="https://github.com/MariiaS3/MariiaS3/blob/main/profile-summary-card-output/dracula/1-repos-per-language.svg" alt=""></a>
 <a href="https://github.com/MariiaS3/MariiaS3"><img src="https://github.com/MariiaS3/MariiaS3/blob/main/profile-summary-card-output/dracula/2-most-commit-language.svg" alt=""></a>
-<a href="https://github.com/MariiaS3/MariiaS3"><img src="https://github.com/MariiaS3/MariiaS3/blob/main/profile-summary-card-output/dracula/3-stats.svg" alt=""></a>
+<a href="https://github.com/MariiaS3/MariiaS3"><img src="https://github.com/MariiaS3/MariiaS3/blob/main/profile-summary-card-output/dracula/" alt=""></a>
 
 </p>                                                                                                                                                                                                                                                                              
 <p>
