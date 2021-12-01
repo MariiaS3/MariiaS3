@@ -24,13 +24,14 @@
 <a href="https://github.com/MariiaS3/MariiaS3"><img src="https://github.com/MariiaS3/MariiaS3/blob/main/profile-summary-card-output/dracula/3-stats.svg" weight="150px" height="150px" alt=""></a>
  <a href="https://github.com/MariiaS3/MariiaS3"><img src="https://github.com/MariiaS3/MariiaS3/blob/main/profile-summary-card-output/dracula/2-most-commit-language.svg" weight="150px" height="150px" alt=""></a>
 
-</p>                                                                                                                                                     
+</p>
+<br>
 <p>
 <a href="https://open.spotify.com/user/31hnpnzouza2difoq2bxicznimmq">
         <img src="https://spotify-github-profile.vercel.app/api/view?uid=31hnpnzouza2difoq2bxicznimmq&cover_image=true&theme=novatorem" weight="500px"  />
 </a>
 </p>
-<br><br>
+<br>
 <p>
  <a href="https://gitlab.com/MariiaS3">
   <img align="left"
