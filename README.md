@@ -27,10 +27,10 @@
 </p>                                                                                                                                                                                                                                                                              
 <p>
 <a href="https://open.spotify.com/user/31hnpnzouza2difoq2bxicznimmq">
-        <img align="middle"src="https://spotify-github-profile.vercel.app/api/view?uid=31hnpnzouza2difoq2bxicznimmq&cover_image=true&theme=novatorem" weight="500px"  />
+        <img src="https://spotify-github-profile.vercel.app/api/view?uid=31hnpnzouza2difoq2bxicznimmq&cover_image=true&theme=novatorem" weight="500px"  />
 </a>
 <a href="https://mariias3.github.io/">
-         <img align="middle"src="https://icon-library.com/images/joystick-icon/joystick-icon-12.jpg" width="70px"/>
+         <img margin="50px" src="https://icon-library.com/images/joystick-icon/joystick-icon-12.jpg" width="70px"/>
  </a>
  
 </p>
