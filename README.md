@@ -20,9 +20,11 @@
                   <img src="https://github.com/MariiaS3/MariiaS3/blob/main/profile-summary-card-output/dracula/0-profile-details.svg" alt="">
           </a>
 
-</p>
-<p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/></p>                                                                                                                                            
-                                                                                                                                                                                                                                                                                     
+</p>                                                                                               
+   <p align="center">
+<a href="https://github.com/MariiaS3/MariiaS3"><img src="https://github.com/MariiaS3/MariiaS3/blob/main/profile-summary-card-output/dracula/3-stats.svg" alt=""></a>
+<a href="https://github.com/MariiaS3/MariiaS3"><img src="https://github.com/MariiaS3/MariiaS3/blob/main/profile-summary-card-output/dracula/2-most-commit-language.svg" alt=""></a>
+</p>                                                                                                                                                                                                                                                                              
 <p>
 <a href="https://open.spotify.com/user/31hnpnzouza2difoq2bxicznimmq">
         <img src="https://spotify-github-profile.vercel.app/api/view?uid=31hnpnzouza2difoq2bxicznimmq&cover_image=true&theme=novatorem" width="500px"/>
