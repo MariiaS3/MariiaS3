@@ -29,8 +29,9 @@
 <a href="https://open.spotify.com/user/31hnpnzouza2difoq2bxicznimmq">
         <img src="https://spotify-github-profile.vercel.app/api/view?uid=31hnpnzouza2difoq2bxicznimmq&cover_image=true&theme=novatorem" weight="500px"  />
 </a>
-<br><br><br>
 </p>
+<br><br>
+<p>
  <a href="https://gitlab.com/MariiaS3">
   <img align="left"
     alt="GitLab"
@@ -49,7 +50,8 @@
     src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&style=Flat"
   />
 </a>
-
+ </p>
+<br><br>
 <p>
  <img  align="left" src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white&style=Flat" />
  <img align="left" src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white&style=Flat" />
