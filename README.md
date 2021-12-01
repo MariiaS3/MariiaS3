@@ -21,11 +21,10 @@
           </a>
 
 </p>                                                                                               
-   <p>
-<a href="https://github.com/MariiaS3/MariiaS3"><img src="https://github.com/MariiaS3/MariiaS3/blob/main/profile-summary-card-output/dracula/1-repos-per-language.svg" alt=""></a>
+<p>
+<a href="https://github.com/MariiaS3/MariiaS3"><img src="https://github.com/MariiaS3/MariiaS3/blob/main/profile-summary-card-output/dracula/1-repos-per-language.svg" weight="50px" alt=""></a>
 <a href="https://github.com/MariiaS3/MariiaS3"><img src="https://github.com/MariiaS3/MariiaS3/blob/main/profile-summary-card-output/dracula/2-most-commit-language.svg" alt=""></a>
 <a href="https://github.com/MariiaS3/MariiaS3"><img src="https://github.com/MariiaS3/MariiaS3/blob/main/profile-summary-card-output/dracula/3-stats.svg" alt=""></a>
-
 </p>                                                                                                                                                                                                                                                                              
 <p>
 <a href="https://open.spotify.com/user/31hnpnzouza2difoq2bxicznimmq">
