@@ -29,22 +29,22 @@
 <a href="https://open.spotify.com/user/31hnpnzouza2difoq2bxicznimmq">
         <img src="https://spotify-github-profile.vercel.app/api/view?uid=31hnpnzouza2difoq2bxicznimmq&cover_image=true&theme=novatorem" weight="500px"  />
 </a>
- 
+<br><br><br>
 </p>
  <a href="https://gitlab.com/MariiaS3">
-  <img
+  <img align="left"
     alt="GitLab"
     src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white&style=Flat"
   />
 </a>
 <a href="https://www.instagram.com/marichka_sydor/">
-  <img
+  <img align="left"
     alt="Instagram"
     src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=Flat"
   />
 </a>
 <a href="https://www.facebook.com/profile.php?id=100010762445803">
-  <img
+  <img align="left"
     alt="Facebook"
     src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&style=Flat"
   />
