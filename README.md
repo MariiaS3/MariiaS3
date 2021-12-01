@@ -29,8 +29,8 @@
 <a href="https://open.spotify.com/user/31hnpnzouza2difoq2bxicznimmq">
         <img src="https://spotify-github-profile.vercel.app/api/view?uid=31hnpnzouza2difoq2bxicznimmq&cover_image=true&theme=novatorem" weight="500px"  />
 </a>
-<a margin-left="500px" href="https://mariias3.github.io/">
-         <img src="https://icon-library.com/images/joystick-icon/joystick-icon-12.jpg" width="70px"/>
+<a href="https://mariias3.github.io/">
+         <img align="center" src="https://icon-library.com/images/joystick-icon/joystick-icon-12.jpg" width="70px"/>
  </a>
  
 </p>
