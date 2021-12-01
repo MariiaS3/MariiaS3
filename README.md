@@ -28,7 +28,7 @@
 </p>                                                                                                                                                                                                                                                                              
 <p>
 <a href="https://open.spotify.com/user/31hnpnzouza2difoq2bxicznimmq">
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=31hnpnzouza2difoq2bxicznimmq&cover_image=true&theme=novatorem" width="500px"/>
+        <img src="https://spotify-github-profile.vercel.app/api/view?uid=31hnpnzouza2difoq2bxicznimmq&cover_image=true&theme=novatorem" weight="150px" height="223px"/>
 </a>
 </p>
 <!-- <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MariiaS3&repo=MariiaS3&theme=nightowl&hide_border=true&show_icons=false" alt="github-readme-streak-stats">  -->
