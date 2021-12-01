@@ -1,6 +1,4 @@
  <p>
-  <a href="https://mariias3.github.io/"><img align="left" src="https://icon-library.com/images/joystick-icon/joystick-icon-12.jpg" width="50px"/></a>
-  <br><br><br>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&style=Flat" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&style=Flat" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&style=Flat" />
@@ -31,6 +29,8 @@
 <a href="https://open.spotify.com/user/31hnpnzouza2difoq2bxicznimmq">
         <img src="https://spotify-github-profile.vercel.app/api/view?uid=31hnpnzouza2difoq2bxicznimmq&cover_image=true&theme=novatorem" weight="500px"  />
 </a>
+  <a href="https://mariias3.github.io/"><img align="left" src="https://icon-library.com/images/joystick-icon/joystick-icon-12.jpg" width="100px"/></a>
+ 
 </p>
  <a href="https://gitlab.com/MariiaS3">
   <img
@@ -56,6 +56,6 @@
  <img src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white&style=Flat" />
  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white&style=Flat" />
  <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white&style=Flat" />
-
+</p>
   
 
