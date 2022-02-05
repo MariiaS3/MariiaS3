@@ -16,7 +16,7 @@
 <p>
 <a href="https://github.com/MariiaS3/MariiaS3"><img src="https://github-readme-stats.vercel.app/api?username=MariiaS3&count_private=true&show_icons=true&include_all_commits=true&theme=radical&custom_title=Mariia's%20Github%20Stats&card_width=50" alt=""></a>
 
- <a href="https://github.com/MariiaS3/MariiaS3"><img src="https://github.com/MariiaS3/MariiaS3/blob/main/profile-summary-card-output/dracula/3-stats.svg" weight="150px" height="150px" alt=""></a>
+ <a href="https://github.com/MariiaS3/MariiaS3"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariiaS3&layout=compact" weight="150px" height="150px" alt=""></a>
  <a href="https://github.com/MariiaS3/MariiaS3"><img src="https://github.com/MariiaS3/MariiaS3/blob/main/profile-summary-card-output/dracula/2-most-commit-language.svg" weight="150px" height="150px" alt=""></a>
 
 </p>
