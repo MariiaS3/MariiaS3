@@ -16,7 +16,7 @@
                                                                                              
 <p>
 <a href="https://github.com/MariiaS3/MariiaS3"><img src="https://github-readme-stats.vercel.app/api?username=MariiaS3&count_private=true&show_icons=true&include_all_commits=true&theme=radical&custom_title=Mariia's%20Github%20Stats" weight="190px" height="190px" alt=""></a>
-<a href="https://github.com/MariiaS3/MariiaS3"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariiaS3&layout=compact&langs_count=10&theme=radical&hide=Makefile,QMake,Dockerfile,GAP" weight="260px" height="190px" alt=""></a>
+<a href="https://github.com/MariiaS3/MariiaS3"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariiaS3&layout=compact&langs_count=10&theme=radical&hide=Makefile,QMake,Dockerfile,GAP" weight="270px" height="190px" alt=""></a>
 
 </p>
 <br>
