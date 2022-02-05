@@ -15,9 +15,9 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&style=Flat" />
                                                                                              
 <p>
-<a href="https://github.com/MariiaS3/MariiaS3"><img src="https://github-readme-stats.vercel.app/api?username=MariiaS3&count_private=true&show_icons=true&include_all_commits=true&theme=radical&custom_title=Mariia's%20Github%20Stats" weight="150px" height="150px" alt="">
+<a href="https://github.com/MariiaS3/MariiaS3"><img src="https://github-readme-stats.vercel.app/api?username=MariiaS3&count_private=true&show_icons=true&include_all_commits=true&theme=radical&custom_title=Mariia's%20Github%20Stats" weight="140px" height="140px" alt="">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariiaS3&layout=compact&langs_count=10&theme=radical&hide=Makefile,QMake,Dockerfile,GAP" weight="150px" height="150px" alt=""></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariiaS3&layout=compact&langs_count=10&theme=radical&hide=Makefile,QMake,Dockerfile,GAP" weight="140px" height="140px" alt=""></a>
 
 </p>
 <br>
